@@ -1,11 +1,9 @@
 # Discord Music Bot
 Bu bot, Discord sunucuları için müzik oynatma yetenekleri sağlar. YouTube'dan doğrudan ses akışı yaparak, herhangi bir ses kanalında müzik çalabilir.
 
-**
 
 ## Başlangıç
 
-**
 
 **Önkoşullar**
 
